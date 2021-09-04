@@ -1,7 +1,7 @@
 import React from "react";
 
 //falta conseguir la Data desde una API
-const allData = new Array(25).fill(0).map((_val, i) => i + 1);
+const allData = new Array(55).fill(0).map((_val, i) => i + 1);
 const perPage = 10;
 const types = {
   start: "START",
